@@ -1,0 +1,21 @@
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    overflow: hidden;
+    background-color: limegreen;
+}
+li{
+    float: left;
+}
+li a{
+    padding: 10px;
+    color: white;
+    font-family: "DejaVu Sans Mono";
+    font-size: 25px;
+    text-decoration: none;
+    display: block;
+}
+li a:hover{
+    background-color: black;
+}

@@ -1,0 +1,106 @@
+h2{
+    font-size: 50px;
+    text-align: center;
+    font-family: "DejaVu Sans Mono";
+    color: darkblue;
+    text-decoration: underline;
+    margin-right: 40px;
+}
+label[for=male]{
+    color: blue;
+    font-size: 20px;
+    font-family: "DejaVu Sans Mono";
+    margin-right: 40px;
+    margin-left: 35%;
+}
+label[for=female]{
+    color: blue;
+    font-size: 20px;
+    font-family: "DejaVu Sans Mono";
+    margin-right: 40px;
+}
+label[for=other]{
+    color: blue;
+    font-size: 20px;
+    font-family: "DejaVu Sans Mono";
+    margin-right: 40px;
+}
+input[type=text]{
+   text-align: center;
+    align-self: center;
+    width: 30%;
+    padding: 10px;
+    font-size: 20px;
+    margin-block-start: 10px;
+    margin-left: 33%;
+    border-color: blue;
+}
+input[type=email]{
+   text-align: center;
+    align-self: center;
+    width: 30%;
+    padding: 10px;
+    font-size: 20px;
+    margin-block-start: 10px;
+    margin-left: 33%;
+    border-color: blue;
+}
+input[type=date]{
+   text-align: center;
+    align-self: center;
+    width: 30%;
+    padding: 10px;
+    font-size: 20px;
+    margin-block-start: 10px;
+    margin-left: 33%;
+    border-color: blue;
+}
+input[type=submit]{
+    padding: 5px;
+    font-size: 30px;
+    background-color: red;
+    color: white;
+    margin-left: 34%;
+}
+input[type=radio]{
+    font-size: 30px;
+}
+option{
+    text-align: center;
+    align-self: center;
+    width: 20%;
+    padding: 10px;
+    font-size: 15px;
+    margin-block-start: 10px;
+    margin-left: 33%;
+    border-color: blue;
+}
+label[for=course]{
+    color: blue;
+    font-size: 20px;
+    font-family: "DejaVu Sans Mono";
+    margin-right: 40px;
+    margin-left: 35%;
+}
+label[for=passpic]{
+    color: blue;
+    font-size: 20px;
+    font-family: "DejaVu Sans Mono";
+    margin-right: 40px;
+    margin-left: 35%;
+}
+input[type=password]{
+   text-align: center;
+    align-self: center;
+    width: 30%;
+    padding: 10px;
+    font-size: 20px;
+    margin-block-start: 10px;
+    margin-left: 33%;
+    border-color: blue;
+}
+body{
+    background-image: url("Asset/CSS/rhino-6065480_1280.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
